@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Indra Mishra
+# 👋 Hi, I'm Indramani Mishra
 🚀 Full Stack Engineer | 🧠 Passionate Problem Solver | 🇮🇳 Based in India
 
 ## 🛠️ Tech Stack
