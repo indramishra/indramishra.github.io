@@ -9,9 +9,9 @@
 - **Others:** Git, REST APIs
 
 ## 🔥 Featured Projects
-- 🔊 [Text-to-Speech Converter](https://github.com/indramishra/text-to-speech-app) — Multi-provider TTS app with file upload and bulk conversion.
-- 📈 [Expense Tracker](https://github.com/indramishra/expense-tracker) — React + Google Sheets integration.
-- 📚 [EdTech Platform](https://github.com/indramishra/edtech-live-class) — Live classes, student attendance, parent notifications.
+- 🔊 [Text-to-Speech Converter](https://github.com/indramishra/text-to-speech-app) — Node.js, React
+- 📈 [flip-coin](https://github.com/indramishra/flip-coin) — venilla js.
+- 📚 [todo-app](https://github.com/indramishra/todo-app) - venilla js
 
 ## 📫 Contact
 - 📧 Email: 9indramishra@gmail.com
