@@ -10,8 +10,8 @@
 
 ## 🔥 Featured Projects
 - 🔊 [Text-to-Speech Converter](https://github.com/indramishra/text-to-speech-app) — Node.js, React
-- 📈 [flip-coin](https://github.com/indramishra/flip-coin) — venilla js.
-- 📚 [todo-app](https://github.com/indramishra/todo-app) - venilla js
+- 📈 [flip-coin](https://github.com/indramishra/flip-coin) — vanilla js.
+- 📚 [todo-app](https://github.com/indramishra/todo-app) - vanilla js
 
 ## 📫 Contact
 - 📧 Email: 9indramishra@gmail.com
